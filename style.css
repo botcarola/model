@@ -1,0 +1,25 @@
+#container-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    width: 300px;
+    background-color: rgb(106, 175, 187);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-carrito {
+    display: flex;
+    justify-content: space-around
+}
